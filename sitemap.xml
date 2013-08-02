@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://sample.com/</loc>
+		<loc>http://hjnana.github.io/</loc>
 	</url>
 	<url>
-		<loc>http://sample.com/2012/new-born.html</loc>
-		<lastmod>2012-12-22</lastmod>
+		<loc>http://hjnana.github.io/default/%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93/</loc>
+		<lastmod>2013-08-02</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 </urlset>
